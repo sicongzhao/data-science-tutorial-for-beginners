@@ -17,6 +17,8 @@
 
 ## 教程结构
 
+* [0.1 前言](https://github.com/RyC37/data-science-tutorial-for-beginners/blob/master/0.1-preface.ipynb)
+
 **Section1: 简单线性回归 Simple Linear Regression**
 * [1.1 简单线性回归（Simple Linear Regression）介绍](https://github.com/RyC37/data-science-tutorial-for-beginners/blob/master/1.1-simple-linear-regression.ipynb)
 * [1.2 实战演练1：预测二手车价格](https://github.com/RyC37/data-science-tutorial-for-beginners/blob/master/1.2-simple-linear-regression-for-car-price-prediction.ipynb)
@@ -28,7 +30,7 @@
 
 **Section3: 逻辑回归 Logistic Regression**
 * [3.1 逻辑回归（Multiple Linear Regression）介绍](https://github.com/RyC37/data-science-tutorial-for-beginners/blob/master/3.1-logistic-regression.ipynb)
-* [3.2 实战演练3：糖尿病诊断]
+* [3.2 实战演练3：糖尿病诊断](https://github.com/RyC37/data-science-tutorial-for-beginners/blob/master/3.2-logistic-regression-for-medical-data-diabetes-analysis.ipynb)
 * [3.3 基础的Data Science知识2](https://github.com/RyC37/data-science-tutorial-for-beginners/blob/master/3.3-stats-basic-2.ipynb)
 
 **Section4: 逻辑回归 Logistic Regression**
